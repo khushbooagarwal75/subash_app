@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531472058650",
+    "project_id": "assignment-app-fe33f",
+    "storage_bucket": "assignment-app-fe33f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531472058650:android:6df082c500f1762c6844a3",
+        "android_client_info": {
+          "package_name": "com.example.subash_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5q6LjOVGXg6K94wD7_nHEFbpd_o2AHAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
